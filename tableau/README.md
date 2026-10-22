@@ -31,11 +31,13 @@ Five KPI cards summarize total runners, female runners, and women's average, fas
 
 ## Published Dashboard
 
-[View Running Through the Ages on Tableau Public](ADD_YOUR_TABLEAU_PUBLIC_URL_HERE)
+[View Running Through the Ages on Tableau Public](https://public.tableau.com/app/profile/claudia.zelaya/viz/Womens_Running_Analytics_NYC_Marathon_2019/RUNNINGTHROUGHTHEAGES)
+
+
 
 ## Screenshot
 
-The dashboard screenshot will be stored in the `screenshots` subfolder.
+![Running Through the Ages — NYC Marathon 2019](screenshots/Running_Through_the_Ages_NYC_Marathon_2019_Women's_Running_Analytics.png)
 
 ## Data
 
